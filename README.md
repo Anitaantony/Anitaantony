@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Anita 👋
 
-<!--
-**Anitaantony/Anitaantony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔬 Tech Enthusiast | Python • Data Visualization  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###  Tech Stack
+- **Languages:** JavaScript, Python  
+- **Frameworks:** React, Node.js  
+- **Tools:** Git, Docker, VS Code
+
+---
+
+###  GitHub Stats
+![Anita's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anitaantony&show_icons=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anitaantony&layout=compact)
+
+---
+
+###  Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/anita-antonya10a5b249/)  
+- [Email](mailto:anitaantony146@gmail.com)

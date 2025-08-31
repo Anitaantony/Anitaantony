@@ -1,6 +1,6 @@
 # Hi, I'm Anita 👋
 
-🔬 Tech Enthusiast | Python • Data Visualization  
+🔬 Tech Enthusiast | Python • Node.js • Data Visualization  
 
 ---
 
